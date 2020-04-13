@@ -31,8 +31,8 @@ class App extends React.Component {
     const { articles } = this.state;
     return (
       <div>
-        {/* <Title /> */}
-        {/* <Navigation /> */}
+        {/* <Title /> */} {/* NOTE: is a title component necessary? */}
+        {/* <Navigation /> */} {/* NOTE: Top-headlines, Search */}
         <h2>News Seeker</h2>
         <Articles articles={articles}/>
       </div>
