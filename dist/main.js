@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = {\n  backEndHost: 'https://news-seeker-back-end.herokuapp.com/'\n};//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi8uY29uZmlnLmpzLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vLmNvbmZpZy5qcz82NTkyIl0sInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0ge1xuICBiYWNrRW5kSG9zdDogJ2h0dHBzOi8vbmV3cy1zZWVrZXItYmFjay1lbmQuaGVyb2t1YXBwLmNvbS8nLFxufVxuIl0sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBREEiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./.config.js\n");
+eval("module.exports = {\n  backEndHost: 'https://news-seeker-back-end.herokuapp.com'\n};//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi8uY29uZmlnLmpzLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vLmNvbmZpZy5qcz82NTkyIl0sInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0ge1xuICBiYWNrRW5kSG9zdDogJ2h0dHBzOi8vbmV3cy1zZWVrZXItYmFjay1lbmQuaGVyb2t1YXBwLmNvbScsXG59XG4iXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFEQSIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./.config.js\n");
 
 /***/ }),
 

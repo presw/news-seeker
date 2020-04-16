@@ -1,3 +1,3 @@
 module.exports = {
-  backEndHost: 'https://news-seeker-back-end.herokuapp.com/',
+  backEndHost: 'https://news-seeker-back-end.herokuapp.com',
 }
