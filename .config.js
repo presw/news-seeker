@@ -1,3 +1,3 @@
 module.exports = {
-  backEndUrl: 'http://localhost:8000',
+  backEndHost: 'https://news-seeker-back-end.herokuapp.com/',
 }

@@ -2,8 +2,10 @@ import React from 'react';
 import axios from 'axios';
 import Articles from './Articles';
 import Navigation from './Navigation';
-import { backEndUrl } from '../../.config';
+import { backEndHost } from '../../.config';
 import '../css/App.css';
+
+const backEndUrl = process.env.LOCAL_HOST || backEndHost;
 
 class App extends React.Component {
   constructor(props) {
