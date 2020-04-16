@@ -1,0 +1,34 @@
+.navigation-bar {
+  background-color: lightslategrey;
+  width: 600px;
+  min-height: 50px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+  border: 1px black solid;
+}
+
+.navigation-tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  min-height: 50px;
+  padding: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px black solid;
+  transition: 1s;
+}
+
+.navigation-tab:hover {
+  width: 75%;
+  cursor: pointer;
+  transition: 1s;
+}
+
+.active {
+  width: 75%;
+  background-color: lightsteelblue;
+  font-size: larger;
+}
